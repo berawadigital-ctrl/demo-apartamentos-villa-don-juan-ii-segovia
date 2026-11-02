@@ -1,0 +1,588 @@
+{
+ "schema": "berawa-knowledge/1",
+ "project": "demo-apartamentos-villa-don-juan-ii-segovia",
+ "source_site": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+ "source_read_at": "2026-11-02T11:08:00+01:00",
+ "note": "Respuestas solo con datos publicados en la web del negocio. Sin coincidencia: el asistente dice que no dispone de la informacion y ofrece contacto.",
+ "entries": [
+  {
+   "id": "K01",
+   "topic": "apartamentos",
+   "keys": {
+    "es": [
+     "que apartamentos",
+     "tipos de apartamento",
+     "capacidad",
+     "fresa",
+     "menta",
+     "melocoton",
+     "cuantas personas"
+    ],
+    "en": [
+     "which apartments",
+     "apartment types",
+     "capacity",
+     "fresa",
+     "menta",
+     "melocoton",
+     "how many people"
+    ],
+    "fr": [
+     "quels appartements",
+     "types d’appartement",
+     "capacite",
+     "fresa",
+     "menta",
+     "melocoton",
+     "combien de personnes"
+    ],
+    "de": [
+     "welche apartments",
+     "apartmenttypen",
+     "kapazitat",
+     "fresa",
+     "menta",
+     "melocoton",
+     "wie viele personen"
+    ]
+   },
+   "a": {
+    "es": "Hay tres apartamentos en dos plantas: Menta (2 personas), Melocotón (4 personas) y Fresa (6 personas), todos con vistas a un patio privado ajardinado y al Alcázar.",
+    "en": "There are three two-floor apartments: Menta (2 people), Melocotón (4 people) and Fresa (6 people), all overlooking a private landscaped patio and the Alcázar.",
+    "fr": "Il y a trois appartements sur deux niveaux : Menta (2 personnes), Melocotón (4 personnes) et Fresa (6 personnes), tous avec vue sur un patio privé paysager et sur l’Alcazar.",
+    "de": "Es gibt drei zweistöckige Apartments: Menta (2 Personen), Melocotón (4 Personen) und Fresa (6 Personen), alle mit Blick auf einen privaten Gartenpatio und den Alcázar."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Apartamento Fresa Capacidad: 6 personas"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Apartamento Menta Capacidad: 2 personas"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Apartamento Melocotón Capacidad: 4 personas"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Apartamento distribuido en dos plantas. Vistas a un patio privado ajardinado y al Alcázar de Segovia."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K02",
+   "topic": "equipamiento",
+   "keys": {
+    "es": [
+     "tienen los apartamentos",
+     "cocina",
+     "lavadora",
+     "lavavajillas",
+     "aire acondicionado",
+     "calefaccion",
+     "toallas"
+    ],
+    "en": [
+     "include",
+     "kitchen",
+     "washing machine",
+     "dishwasher",
+     "air conditioning",
+     "heating",
+     "towels"
+    ],
+    "fr": [
+     "comprennent",
+     "cuisine",
+     "lave-linge",
+     "lave-vaisselle",
+     "climatisation",
+     "chauffage",
+     "serviettes"
+    ],
+    "de": [
+     "bieten die apartments",
+     "kuche",
+     "waschmaschine",
+     "geschirrspuler",
+     "klimaanlage",
+     "heizung",
+     "handtucher"
+    ]
+   },
+   "a": {
+    "es": "Tienen calefacción y aire acondicionado, TV, wifi gratuito, secador, artículos de aseo, ropa de cama y toallas, plancha, y cocina completa con vitrocerámica, lavadora, lavavajillas, frigorífico-congelador, horno, microondas y cafetera.",
+    "en": "They have heating and air conditioning, TV, free wifi, hairdryer, toiletries, bed linen and towels, an iron, and a full kitchen with hob, washing machine, dishwasher, fridge-freezer, oven, microwave and coffee maker.",
+    "fr": "Ils disposent du chauffage et de la climatisation, TV, wifi gratuit, sèche-cheveux, produits d’accueil, linge de lit et serviettes, fer à repasser, et d’une cuisine équipée avec plaque, lave-linge, lave-vaisselle, réfrigérateur-congélateur, four, micro-ondes et cafetière.",
+    "de": "Sie haben Heizung und Klimaanlage, TV, kostenloses WLAN, Föhn, Pflegeartikel, Bettwäsche und Handtücher, Bügeleisen und eine voll ausgestattete Küche mit Kochfeld, Waschmaschine, Geschirrspüler, Kühl-Gefrierschrank, Backofen, Mikrowelle und Kaffeemaschine."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Calefacción y aire acondicionado TV WiFi gratuito Secador de pelo"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Ropa de cama, toallas (gratuito) Plancha y tabla de planchar"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Cocina completa: vitrocerámica, lavadora, lavavajillas, frigorífico-congelador, horno, microondas, tostadora, cafetera"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K03",
+   "topic": "parking",
+   "keys": {
+    "es": [
+     "parking",
+     "aparc",
+     "coche",
+     "garaje"
+    ],
+    "en": [
+     "parking",
+     "park",
+     "car",
+     "garage"
+    ],
+    "fr": [
+     "parking",
+     "garer",
+     "voiture",
+     "garage"
+    ],
+    "de": [
+     "parkplatz",
+     "parken",
+     "auto",
+     "garage"
+    ]
+   },
+   "a": {
+    "es": "Sí, hay aparcamiento en la propia finca, sujeto a disponibilidad; consulta la tarifa al reservar.",
+    "en": "Yes, there is parking on the property, subject to availability; ask about the rate when booking.",
+    "fr": "Oui, il y a un parking sur la propriété, selon disponibilité ; demandez le tarif en réservant.",
+    "de": "Ja, es gibt einen Parkplatz auf dem Grundstück, nach Verfügbarkeit; fragen Sie bei der Buchung nach dem Tarif."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Parking en la misma finca."
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Parking (consultar tarifa y disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K04",
+   "topic": "cuna",
+   "keys": {
+    "es": [
+     "cuna",
+     "bebe"
+    ],
+    "en": [
+     "cot",
+     "crib",
+     "baby"
+    ],
+    "fr": [
+     "lit bebe",
+     "berceau",
+     "bebe"
+    ],
+    "de": [
+     "babybett",
+     "kinderbett",
+     "baby"
+    ]
+   },
+   "a": {
+    "es": "Sí, la cuna es gratis, según disponibilidad.",
+    "en": "Yes, the cot is free, subject to availability.",
+    "fr": "Oui, le lit bébé est gratuit, selon disponibilité.",
+    "de": "Ja, das Babybett ist kostenlos, nach Verfügbarkeit."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Cuna gratis (consultar disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K05",
+   "topic": "supletoria",
+   "keys": {
+    "es": [
+     "supletoria",
+     "cama extra",
+     "sofa cama",
+     "sofa-cama",
+     "niños"
+    ],
+    "en": [
+     "extra bed",
+     "sofa bed",
+     "children"
+    ],
+    "fr": [
+     "lit d’appoint",
+     "lit supplementaire",
+     "canape-lit",
+     "enfants"
+    ],
+    "de": [
+     "zustellbett",
+     "schlafsofa",
+     "kinder"
+    ]
+   },
+   "a": {
+    "es": "Hay sofás-cama para niños en los apartamentos; las camas supletorias se consultan (tarifa y disponibilidad).",
+    "en": "The apartments have sofa beds for children; extra beds are on request (rate and availability).",
+    "fr": "Les appartements ont des canapés-lits pour enfants ; lits d’appoint sur demande (tarif et disponibilité).",
+    "de": "Die Apartments haben Schlafsofas für Kinder; Zustellbetten auf Anfrage (Tarif und Verfügbarkeit)."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Dos plazas más para albergar niños/as en dos sofás-cama."
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-fresa",
+     "quote": "Camas supletorias (consultar tarifa y disponibilidad)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K06",
+   "topic": "horarios",
+   "keys": {
+    "es": [
+     "entrada",
+     "salida",
+     "check-in",
+     "check in",
+     "check-out",
+     "hora"
+    ],
+    "en": [
+     "check-in",
+     "check in",
+     "check-out",
+     "check out",
+     "arrival",
+     "departure"
+    ],
+    "fr": [
+     "arrivee",
+     "depart",
+     "check-in",
+     "check-out"
+    ],
+    "de": [
+     "check-in",
+     "check-out",
+     "anreise",
+     "abreise"
+    ]
+   },
+   "a": {
+    "es": "Entrada a las 14:00 y salida a las 12:00. Early check-in y late check-out sujetos a disponibilidad (el late check-out, con tarifa a consultar).",
+    "en": "Check-in at 14:00 and check-out at 12:00. Early check-in and late check-out subject to availability (late check-out at a rate to be confirmed).",
+    "fr": "Arrivée à 14h00 et départ à 12h00. Arrivée anticipée et départ tardif selon disponibilité (départ tardif avec tarif à confirmer).",
+    "de": "Check-in um 14:00 und Check-out um 12:00. Früher Check-in und später Check-out nach Verfügbarkeit (später Check-out gegen Aufpreis auf Anfrage)."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Hora de entrada: 14:00h / Hora de salida: 12:00h"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Early Check In, sujeto a disponibilidad Late Check Out, sujeto a disponibilidad, consultar tarifa"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K07",
+   "topic": "ubicacion",
+   "keys": {
+    "es": [
+     "donde estais",
+     "direccion",
+     "ubicacion",
+     "centro",
+     "alcazar",
+     "catedral",
+     "muralla"
+    ],
+    "en": [
+     "where are you",
+     "address",
+     "location",
+     "centre",
+     "center",
+     "alcazar",
+     "cathedral",
+     "wall"
+    ],
+    "fr": [
+     "ou etes-vous",
+     "adresse",
+     "situation",
+     "centre",
+     "alcazar",
+     "cathedrale",
+     "muraille"
+    ],
+    "de": [
+     "wo liegt",
+     "adresse",
+     "lage",
+     "zentrum",
+     "alcazar",
+     "kathedrale",
+     "mauer"
+    ]
+   },
+   "a": {
+    "es": "En Ronda Don Juan II, 3, 40003 Segovia: bordeada por la antigua muralla, a pocos metros del Alcázar y de la Catedral y al lado del Museo de la Casa del Sol.",
+    "en": "At Ronda Don Juan II, 3, 40003 Segovia: by the old city wall, a few metres from the Alcázar and the Cathedral and next to the Casa del Sol Museum.",
+    "fr": "Ronda Don Juan II, 3, 40003 Ségovie : le long de l’ancienne muraille, à quelques mètres de l’Alcazar et de la cathédrale, à côté du musée de la Casa del Sol.",
+    "de": "Ronda Don Juan II, 3, 40003 Segovia: an der alten Stadtmauer, wenige Meter vom Alcázar und der Kathedrale, neben dem Museum Casa del Sol."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Ronda Don Juan II Nº 3 40003 Segovia"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Bordeada por la antigua muralla, Villa Don Juan II ofrece un espacio tranquilo en el corazón de Segovia. Los apartamentos se sitúan a pocos metros del Alcázar y de la Catedral, y al lado del Museo de la Casa del Sol."
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K08",
+   "topic": "reservas",
+   "keys": {
+    "es": [
+     "reserv",
+     "disponib",
+     "como reservo"
+    ],
+    "en": [
+     "book",
+     "reserv",
+     "availab"
+    ],
+    "fr": [
+     "reserv",
+     "disponib"
+    ],
+    "de": [
+     "buch",
+     "reserv",
+     "verfugbar"
+    ]
+   },
+   "a": {
+    "es": "Puedes reservar online con el botón Reservar (su motor de reservas) o escribir a info@villadonjuanii.com. Este asistente no puede confirmar disponibilidad.",
+    "en": "You can book online with the Book button (their booking engine) or email info@villadonjuanii.com. This assistant cannot confirm availability.",
+    "fr": "Vous pouvez réserver en ligne avec le bouton Réserver (leur moteur de réservation) ou écrire à info@villadonjuanii.com. Cet assistant ne peut pas confirmer la disponibilité.",
+    "de": "Sie können online über die Schaltfläche Buchen (deren Buchungssystem) buchen oder an info@villadonjuanii.com schreiben. Dieser Assistent kann die Verfügbarkeit nicht bestätigen."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "Reservar online"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/contactar",
+     "quote": "info@villadonjuanII.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K09",
+   "topic": "wifi",
+   "keys": {
+    "es": [
+     "wifi",
+     "internet"
+    ],
+    "en": [
+     "wifi",
+     "internet"
+    ],
+    "fr": [
+     "wifi",
+     "internet"
+    ],
+    "de": [
+     "wlan",
+     "wifi",
+     "internet"
+    ]
+   },
+   "a": {
+    "es": "Sí, wifi gratuito en toda la villa.",
+    "en": "Yes, free wifi throughout the villa.",
+    "fr": "Oui, wifi gratuit dans toute la villa.",
+    "de": "Ja, kostenloses WLAN in der ganzen Villa."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "WIFI en toda la Villa (gratuito)"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K10",
+   "topic": "jardin",
+   "keys": {
+    "es": [
+     "jardin",
+     "patio",
+     "terraza"
+    ],
+    "en": [
+     "garden",
+     "patio",
+     "terrace"
+    ],
+    "fr": [
+     "jardin",
+     "patio",
+     "terrasse"
+    ],
+    "de": [
+     "garten",
+     "patio",
+     "terrasse"
+    ]
+   },
+   "a": {
+    "es": "Sí, la villa tiene jardín y patio privados, con vistas al jardín y al Alcázar de Segovia.",
+    "en": "Yes, the villa has a private garden and patio, with views of the garden and the Alcázar of Segovia.",
+    "fr": "Oui, la villa a un jardin et un patio privés, avec vue sur le jardin et l’Alcazar de Ségovie.",
+    "de": "Ja, die Villa hat einen privaten Garten und Patio mit Blick auf den Garten und den Alcázar von Segovia."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+     "quote": "Jardín y patio privados Vistas al jardín y al Alcázar de Segovia"
+    }
+   ],
+   "cta": false
+  },
+  {
+   "id": "K11",
+   "topic": "contacto",
+   "keys": {
+    "es": [
+     "telefono",
+     "correo",
+     "email",
+     "contacto",
+     "llamar"
+    ],
+    "en": [
+     "phone",
+     "email",
+     "contact",
+     "call"
+    ],
+    "fr": [
+     "telephone",
+     "courriel",
+     "email",
+     "contact",
+     "appeler"
+    ],
+    "de": [
+     "telefon",
+     "e-mail",
+     "email",
+     "kontakt",
+     "anrufen"
+    ]
+   },
+   "a": {
+    "es": "Teléfono: +34 679 00 89 43. Correo: info@villadonjuanii.com.",
+    "en": "Phone: +34 679 00 89 43. Email: info@villadonjuanii.com.",
+    "fr": "Téléphone : +34 679 00 89 43. E-mail : info@villadonjuanii.com.",
+    "de": "Telefon: +34 679 00 89 43. E-Mail: info@villadonjuanii.com."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/contactar",
+     "quote": "+34 679 00 89 43 info@villadonjuanII.com"
+    }
+   ],
+   "cta": true
+  },
+  {
+   "id": "K12",
+   "topic": "acueducto",
+   "keys": {
+    "es": [
+     "acueducto",
+     "que ver",
+     "monumentos"
+    ],
+    "en": [
+     "aqueduct",
+     "what to see",
+     "sights",
+     "monuments"
+    ],
+    "fr": [
+     "aqueduc",
+     "que voir",
+     "monuments"
+    ],
+    "de": [
+     "aquadukt",
+     "sehenswurdig",
+     "denkmal"
+    ]
+   },
+   "a": {
+    "es": "Sí: el Acueducto está a nueve minutos, y el Alcázar y la Catedral a pocos metros, en un entorno declarado Patrimonio de la Humanidad.",
+    "en": "Yes: the Aqueduct is nine minutes away, and the Alcázar and the Cathedral a few metres away, in a World Heritage setting.",
+    "fr": "Oui : l’aqueduc est à neuf minutes, l’Alcazar et la cathédrale à quelques mètres, dans un cadre classé au patrimoine mondial.",
+    "de": "Ja: Das Aquädukt ist neun Minuten entfernt, Alcázar und Kathedrale nur wenige Meter, in einer Umgebung mit Welterbe-Status."
+   },
+   "sources": [
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "tan sólo a nueve minutos del Acueducto"
+    },
+    {
+     "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+     "quote": "declarado Patrimonio de la Humanidad"
+    }
+   ],
+   "cta": false
+  }
+ ]
+}
