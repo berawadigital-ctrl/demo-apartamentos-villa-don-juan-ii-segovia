@@ -5,7 +5,7 @@ HO='/apartamentos-turisticos-segovia';FR='/apartamento-fresa';ME='/apartamento-m
 def E(id,topic,keys,a,src,cta=False): return dict(id=id,topic=topic,keys=keys,a=a,sources=[dict(url=U+u,quote=q) for u,q in src],cta=cta)
 ENTRIES=[
 E('K01','apartamentos',
- dict(es=['que apartamentos','tipos de apartamento','capacidad','fresa','menta','melocoton','cuantas personas'],en=['which apartments','apartment types','capacity','fresa','menta','melocoton','how many people'],fr=['quels appartements','types d’appartement','capacite','fresa','menta','melocoton','combien de personnes'],de=['welche apartments','apartmenttypen','kapazitat','fresa','menta','melocoton','wie viele personen']),
+ dict(es=['que apartamentos','tipos de apartamento','capacidad','fresa','menta','melocoton','cuantas personas'],en=['which apartments','apartment types','capacity','fresa','menta','melocoton','how many people'],fr=['quels appartements','types appartement','capacite','fresa','menta','melocoton','combien de personnes'],de=['welche apartments','apartmenttypen','kapazitat','fresa','menta','melocoton','wie viele personen']),
  dict(es='Hay tres apartamentos en dos plantas: Menta (2 personas), Melocotón (4 personas) y Fresa (6 personas), todos con vistas a un patio privado ajardinado y al Alcázar.',
   en='There are three two-floor apartments: Menta (2 people), Melocotón (4 people) and Fresa (6 people), all overlooking a private landscaped patio and the Alcázar.',
   fr='Il y a trois appartements sur deux niveaux : Menta (2 personnes), Melocotón (4 personnes) et Fresa (6 personnes), tous avec vue sur un patio privé paysager et sur l’Alcazar.',
@@ -27,7 +27,7 @@ E('K04','cuna',
  dict(es='Sí, la cuna es gratis, según disponibilidad.',en='Yes, the cot is free, subject to availability.',fr='Oui, le lit bébé est gratuit, selon disponibilité.',de='Ja, das Babybett ist kostenlos, nach Verfügbarkeit.'),
  [(ME,'Cuna gratis (consultar disponibilidad)')]),
 E('K05','supletoria',
- dict(es=['supletoria','cama extra','sofa cama','sofa-cama','niños'],en=['extra bed','sofa bed','children'],fr=['lit d’appoint','lit supplementaire','canape-lit','enfants'],de=['zustellbett','schlafsofa','kinder']),
+ dict(es=['supletoria','cama extra','sofa cama','sofa-cama','niños'],en=['extra bed','sofa bed','children'],fr=['appoint','lit supplementaire','canape-lit','enfants'],de=['zustellbett','schlafsofa','kinder']),
  dict(es='Hay sofás-cama para niños en los apartamentos; las camas supletorias se consultan (tarifa y disponibilidad).',en='The apartments have sofa beds for children; extra beds are on request (rate and availability).',fr='Les appartements ont des canapés-lits pour enfants ; lits d’appoint sur demande (tarif et disponibilité).',de='Die Apartments haben Schlafsofas für Kinder; Zustellbetten auf Anfrage (Tarif und Verfügbarkeit).'),
  [(HO,'Dos plazas más para albergar niños/as en dos sofás-cama.'),(FR,'Camas supletorias (consultar tarifa y disponibilidad)')]),
 E('K06','horarios',
