@@ -1,0 +1,63 @@
+{
+ "schema": "berawa-project/1",
+ "slug": "demo-apartamentos-villa-don-juan-ii-segovia",
+ "template_version": "webfactory-2026.10.28+modelo-cazorla-6cfa67d",
+ "created_at": "2026-11-02T11:08:00+01:00",
+ "updated_at": "2026-11-02T11:30:00+01:00",
+ "business": {
+  "name": "Villa Don Juan II",
+  "legal_name": "Esther González Sanz, NIF 03404425B (política de privacidad de su web; autónoma)",
+  "registry_ids": [
+   "03404425B"
+  ],
+  "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia/",
+  "domain": "villadonjuanii.com",
+  "municipality": "Segovia",
+  "province": "Segovia",
+  "address": "Ronda Don Juan II, 3 · 40003 Segovia",
+  "phones": [
+   "+34 679 00 89 43"
+  ],
+  "emails": [
+   "info@villadonjuanii.com"
+  ],
+  "sector": "apartamentos turísticos en el casco histórico de Segovia"
+ },
+ "rating": {
+  "value": 4.8,
+  "source": "Google Maps (maps_rating.py, ficha comprobada por web)",
+  "url": "https://www.google.com/maps/search/Apartamentos+Turisticos+Villa+Don+Juan+II+Segovia",
+  "date": "2026-10-29",
+  "threshold": 4.0
+ },
+ "languages": [
+  "es",
+  "en",
+  "fr",
+  "de"
+ ],
+ "noindex": true,
+ "notice_es": "Propuesta de rediseño independiente, no oficial",
+ "chatbot": {
+  "api": false,
+  "kind": "base local de respuestas verificadas",
+  "knowledge": "berawa/knowledge.json",
+  "fallback_es": "No dispongo de esa información"
+ },
+ "book": {
+  "mode": "engine",
+  "url": "https://book.octorate.com/octobook/site/reservation/calendar.xhtml?siteKey=526d6e0fb930aaa8a2fa580214f46ee0&lang=ES",
+  "note": "motor Octorate (Octobook) incrustado en su web con data-sitekey 526d6e0fb930aaa8a2fa580214f46ee0; su página pública book.octorate.com/octobook/site/reservation/calendar.xhtml?siteKey=…&lang=ES/EN/FR/DE devuelve HTTP 200 con el título «VILLA DON JUAN II» (02/11/2026 11:10)."
+ },
+ "audit_original": {
+  "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia/",
+  "date": "2026-11-02T11:08:00+01:00",
+  "veredicto": "LCP > 4 s",
+  "tool": "filtro_mala_web.py (Lighthouse movil, mediana de 3 pasadas)"
+ },
+ "first_of_type": "no aplica: alojamiento con precedente en demos anteriores",
+ "codex": {
+  "audits": []
+ },
+ "changes_log": "ver CORRECCIONES.md (si existe) y berawa/V1.0-CAMBIOS.md"
+}
