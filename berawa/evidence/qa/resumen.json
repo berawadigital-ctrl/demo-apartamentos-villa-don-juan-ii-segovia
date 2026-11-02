@@ -1,12 +1,12 @@
 {
- "zip_sha256": "0a967da0f2a7403f28c0c0753abec41db9ef60f2dba70af81d4201bbfb1ae4e9",
+ "zip_sha256": "c1ac8be751e549c53611360a307436b15293d21b087e4fda3029bf4301fa905b",
  "zip_determinista": true,
  "zip_en_git_igual": true,
  "zip_ficheros_distintos_de_la_rama": [],
- "zip_run_checks_ok": false,
+ "zip_run_checks_ok": true,
  "zip_check_kb_ok": true,
- "clon_ok": false,
- "clon_head": "f1af4d6d249d6203cedd8967eee59228f0d59d3a",
+ "clon_ok": true,
+ "clon_head": "9eb790660076e8fc141ae5dc1fe147bd550cafbc",
  "check_kb_ok": true,
  "rg_workspace_vacio": true,
  "git_diff_check_ok": true,
@@ -44,5 +44,5 @@
    "robots-txt"
   ]
  },
- "minutos": 9.0
+ "minutos": 7.8
 }

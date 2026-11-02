@@ -1,14 +1,12 @@
-HEAD f1af4d6d249d6203cedd8967eee59228f0d59d3a
+HEAD 9eb790660076e8fc141ae5dc1fe147bd550cafbc
 OK    check_kb (citas + regla de precios P1-P6) sobre berawa/knowledge.json
-FALLO tests_apartamentos_villa_don_juan_ii_segovia: 4 idiomas + chatbot contra la base (HTTP)
-   FALLOS ['fr: chat "Avez-vous des lits d’appoint ?" esperado K05 -> Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info']
+OK    tests_apartamentos_villa_don_juan_ii_segovia: 4 idiomas + chatbot contra la base (HTTP)
 OK    a11y_test: axe-core + teclado (HTTP)
 OK    contrast_manual: contraste de nodos «incompletos» de axe
 OK    keys_test: claves del chat sin ambiguedad
 OK    sec_scan: revision estatica + CSP efectiva
-FALLO tests_apartamentos_villa_don_juan_ii_segovia por file://
-   FALLOS ['fr: chat "Avez-vous des lits d’appoint ?" esperado K05 -> Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info']
+OK    tests_apartamentos_villa_don_juan_ii_segovia por file://
 OK    a11y_test por file://
 
-6/8 comprobaciones OK · resultados en /tmp/clon-apartamentos-villa-don-juan-ii-segovia/out
-run_checks exit 1
+8/8 comprobaciones OK · resultados en /tmp/clon-apartamentos-villa-don-juan-ii-segovia/out
+run_checks exit 0

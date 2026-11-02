@@ -1,5 +1,5 @@
 {
- "url": "http://127.0.0.1:39601/index.html",
+ "url": "http://127.0.0.1:39423/index.html",
  "langs": {
   "es": {
    "textos_iguales_al_es": [],
@@ -238,8 +238,8 @@
     {
      "q": "Avez-vous des lits d’appoint ?",
      "esperado": "K05",
-     "ok": false,
-     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info@villadonjuanii.com."
+     "ok": true,
+     "respuesta": "Les appartements ont des canapés-lits pour enfants ; lits d’appoint sur demande (tarif et disponibilité)."
     },
     {
      "q": "À quelle heure est l’arrivée ?",
@@ -414,8 +414,6 @@
    ]
   }
  },
- "fail": [
-  "fr: chat \"Avez-vous des lits d’appoint ?\" esperado K05 -> Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info"
- ],
- "ok": false
+ "fail": [],
+ "ok": true
 }
