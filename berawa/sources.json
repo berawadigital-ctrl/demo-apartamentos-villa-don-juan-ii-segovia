@@ -1,0 +1,39 @@
+{
+ "schema": "berawa-sources/1",
+ "site": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia/",
+ "read_at": "2026-11-02T11:08:00+01:00",
+ "method": "Texto visible de cada pagina leido de la web publica del negocio en la fecha indicada (fetch_sources.py) y guardado en berawa/evidence/source-text.json; las citas del chatbot se comprueban contra ese texto con check_kb.py.",
+ "pages": [
+  {
+   "url": "https://www.villadonjuanii.com/es/apartamento-fresa",
+   "sha256": "2bb0bcd9677c25e5208b5e3bc6c54e7b7465697215e030a6ae5ec6df24614fde",
+   "chars": 1876
+  },
+  {
+   "url": "https://www.villadonjuanii.com/es/apartamento-menta",
+   "sha256": "c5d00f9b7bd132fbfdf5a51b6d426f33b641ab81c5e929445bb8dc29e1834faf",
+   "chars": 1864
+  },
+  {
+   "url": "https://www.villadonjuanii.com/es/apartamentos-turisticos-segovia",
+   "sha256": "3671e37449f520687ef293afd7ade7acd798c8cf06a895626f280a134bfe4bc8",
+   "chars": 2989
+  },
+  {
+   "url": "https://www.villadonjuanii.com/es/contactar",
+   "sha256": "75d4212d1caf90ac3824b5daba5eae4d880ec4794fb97c638d59ea75f330710e",
+   "chars": 2380
+  }
+ ],
+ "other_pages_read": [
+  "https://www.villadonjuanii.com/en/home",
+  "https://www.villadonjuanii.com/en/mint-apartment",
+  "https://www.villadonjuanii.com/en/peach-apartment",
+  "https://www.villadonjuanii.com/en/strawberry-apartment",
+  "https://www.villadonjuanii.com/es/alojamiento-segovia-centro",
+  "https://www.villadonjuanii.com/es/apartamento-melocoton",
+  "https://www.villadonjuanii.com/es/apartamentos-segovia-fin-de-semana",
+  "https://www.villadonjuanii.com/es/politica-de-cookies",
+  "https://www.villadonjuanii.com/es/politica-de-privacidad"
+ ]
+}
