@@ -1,0 +1,421 @@
+{
+ "url": "file:///tmp/clon-apartamentos-villa-don-juan-ii-segovia/repo/index.html",
+ "langs": {
+  "es": {
+   "textos_iguales_al_es": [],
+   "chat": [
+    {
+     "q": "¿Qué apartamentos tenéis?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Hay tres apartamentos en dos plantas: Menta (2 personas), Melocotón (4 personas) y Fresa (6 personas), todos con vistas a un patio privado a"
+    },
+    {
+     "q": "¿Qué tienen los apartamentos?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Tienen calefacción y aire acondicionado, TV, wifi gratuito, secador, artículos de aseo, ropa de cama y toallas, plancha, y cocina completa c"
+    },
+    {
+     "q": "¿Tenéis parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Sí, hay aparcamiento en la propia finca, sujeto a disponibilidad; consulta la tarifa al reservar."
+    },
+    {
+     "q": "¿Hay cuna para bebé?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Sí, la cuna es gratis, según disponibilidad."
+    },
+    {
+     "q": "¿Tenéis camas supletorias?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Hay sofás-cama para niños en los apartamentos; las camas supletorias se consultan (tarifa y disponibilidad)."
+    },
+    {
+     "q": "¿A qué hora es la entrada?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Entrada a las 14:00 y salida a las 12:00. Early check-in y late check-out sujetos a disponibilidad (el late check-out, con tarifa a consulta"
+    },
+    {
+     "q": "¿Dónde estáis?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "En Ronda Don Juan II, 3, 40003 Segovia: bordeada por la antigua muralla, a pocos metros del Alcázar y de la Catedral y al lado del Museo de "
+    },
+    {
+     "q": "¿Cómo reservo?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar online con el botón Reservar (su motor de reservas) o escribir a info@villadonjuanii.com. Este asistente no puede confirmar "
+    },
+    {
+     "q": "¿Podéis confirmarme disponibilidad para mañana?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Puedes reservar online con el botón Reservar (su motor de reservas) o escribir a info@villadonjuanii.com. Este asistente no puede confirmar "
+    },
+    {
+     "q": "¿Hay wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Sí, wifi gratuito en toda la villa."
+    },
+    {
+     "q": "¿Tiene jardín?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Sí, la villa tiene jardín y patio privados, con vistas al jardín y al Alcázar de Segovia."
+    },
+    {
+     "q": "¿Cuál es vuestro teléfono?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Teléfono: +34 679 00 89 43. Correo: info@villadonjuanii.com. Consultar por WhatsApp →"
+    },
+    {
+     "q": "¿Está cerca del Acueducto?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Sí: el Acueducto está a nueve minutos, y el Alcázar y la Catedral a pocos metros, en un entorno declarado Patrimonio de la Humanidad."
+    },
+    {
+     "q": "¿Cuánto cuesta la noche?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 679 00 89 43 · info@villadonjuanii.com."
+    },
+    {
+     "q": "¿Admitís mascotas?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "No dispongo de esa información. Escríbenos o llámanos: +34 679 00 89 43 · info@villadonjuanii.com."
+    }
+   ],
+   "chips": [
+    "¿Qué apartamentos tenéis?",
+    "¿Tenéis parking?",
+    "¿A qué hora es la entrada?",
+    "¿Cómo reservo?"
+   ]
+  },
+  "en": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Which apartments do you have?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "There are three two-floor apartments: Menta (2 people), Melocotón (4 people) and Fresa (6 people), all overlooking a private landscaped pati"
+    },
+    {
+     "q": "What do the apartments include?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "They have heating and air conditioning, TV, free wifi, hairdryer, toiletries, bed linen and towels, an iron, and a full kitchen with hob, wa"
+    },
+    {
+     "q": "Do you have parking?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Yes, there is parking on the property, subject to availability; ask about the rate when booking."
+    },
+    {
+     "q": "Is there a baby cot?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Yes, the cot is free, subject to availability."
+    },
+    {
+     "q": "Do you have extra beds?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "The apartments have sofa beds for children; extra beds are on request (rate and availability)."
+    },
+    {
+     "q": "What time is check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in at 14:00 and check-out at 12:00. Early check-in and late check-out subject to availability (late check-out at a rate to be confirme"
+    },
+    {
+     "q": "Where are you?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "At Ronda Don Juan II, 3, 40003 Segovia: by the old city wall, a few metres from the Alcázar and the Cathedral and next to the Casa del Sol M"
+    },
+    {
+     "q": "How do I book?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book online with the Book button (their booking engine) or email info@villadonjuanii.com. This assistant cannot confirm availability"
+    },
+    {
+     "q": "Can you confirm availability for tomorrow?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "You can book online with the Book button (their booking engine) or email info@villadonjuanii.com. This assistant cannot confirm availability"
+    },
+    {
+     "q": "Is there wifi?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Yes, free wifi throughout the villa."
+    },
+    {
+     "q": "Is there a garden?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Yes, the villa has a private garden and patio, with views of the garden and the Alcázar of Segovia."
+    },
+    {
+     "q": "What is your phone number?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Phone: +34 679 00 89 43. Email: info@villadonjuanii.com. Ask on WhatsApp →"
+    },
+    {
+     "q": "Is it close to the Aqueduct?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Yes: the Aqueduct is nine minutes away, and the Alcázar and the Cathedral a few metres away, in a World Heritage setting."
+    },
+    {
+     "q": "How much is a night?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 679 00 89 43 · info@villadonjuanii.com."
+    },
+    {
+     "q": "Do you allow pets?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "I don't have that information. Please contact us: +34 679 00 89 43 · info@villadonjuanii.com."
+    }
+   ],
+   "chips": [
+    "Which apartments do you have?",
+    "Do you have parking?",
+    "What time is check-in?",
+    "How do I book?"
+   ]
+  },
+  "fr": {
+   "textos_iguales_al_es": [
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Quels appartements avez-vous ?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Il y a trois appartements sur deux niveaux : Menta (2 personnes), Melocotón (4 personnes) et Fresa (6 personnes), tous avec vue sur un patio"
+    },
+    {
+     "q": "Que comprennent les appartements ?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Ils disposent du chauffage et de la climatisation, TV, wifi gratuit, sèche-cheveux, produits d’accueil, linge de lit et serviettes, fer à re"
+    },
+    {
+     "q": "Avez-vous un parking ?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Oui, il y a un parking sur la propriété, selon disponibilité ; demandez le tarif en réservant."
+    },
+    {
+     "q": "Y a-t-il un lit bébé ?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Oui, le lit bébé est gratuit, selon disponibilité."
+    },
+    {
+     "q": "Avez-vous des lits d’appoint ?",
+     "esperado": "K05",
+     "ok": false,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info@villadonjuanii.com."
+    },
+    {
+     "q": "À quelle heure est l’arrivée ?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Arrivée à 14h00 et départ à 12h00. Arrivée anticipée et départ tardif selon disponibilité (départ tardif avec tarif à confirmer)."
+    },
+    {
+     "q": "Où êtes-vous ?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ronda Don Juan II, 3, 40003 Ségovie : le long de l’ancienne muraille, à quelques mètres de l’Alcazar et de la cathédrale, à côté du musée de"
+    },
+    {
+     "q": "Comment réserver ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en ligne avec le bouton Réserver (leur moteur de réservation) ou écrire à info@villadonjuanii.com. Cet assistant ne peu"
+    },
+    {
+     "q": "Pouvez-vous me confirmer la disponibilité pour demain ?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Vous pouvez réserver en ligne avec le bouton Réserver (leur moteur de réservation) ou écrire à info@villadonjuanii.com. Cet assistant ne peu"
+    },
+    {
+     "q": "Y a-t-il le wifi ?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Oui, wifi gratuit dans toute la villa."
+    },
+    {
+     "q": "Y a-t-il un jardin ?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Oui, la villa a un jardin et un patio privés, avec vue sur le jardin et l’Alcazar de Ségovie."
+    },
+    {
+     "q": "Quel est votre numéro de téléphone ?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Téléphone : +34 679 00 89 43. E-mail : info@villadonjuanii.com. Écrire sur WhatsApp →"
+    },
+    {
+     "q": "Est-ce près de l’aqueduc ?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Oui : l’aqueduc est à neuf minutes, l’Alcazar et la cathédrale à quelques mètres, dans un cadre classé au patrimoine mondial."
+    },
+    {
+     "q": "Combien coûte la nuit ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info@villadonjuanii.com."
+    },
+    {
+     "q": "Acceptez-vous les animaux ?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info@villadonjuanii.com."
+    }
+   ],
+   "chips": [
+    "Quels appartements avez-vous ?",
+    "Avez-vous un parking ?",
+    "À quelle heure est l’arrivée ?",
+    "Comment réserver ?"
+   ]
+  },
+  "de": {
+   "textos_iguales_al_es": [
+    "hero_k",
+    "intro_k"
+   ],
+   "chat": [
+    {
+     "q": "Welche Apartments gibt es?",
+     "esperado": "K01",
+     "ok": true,
+     "respuesta": "Es gibt drei zweistöckige Apartments: Menta (2 Personen), Melocotón (4 Personen) und Fresa (6 Personen), alle mit Blick auf einen privaten G"
+    },
+    {
+     "q": "Was bieten die Apartments?",
+     "esperado": "K02",
+     "ok": true,
+     "respuesta": "Sie haben Heizung und Klimaanlage, TV, kostenloses WLAN, Föhn, Pflegeartikel, Bettwäsche und Handtücher, Bügeleisen und eine voll ausgestatt"
+    },
+    {
+     "q": "Gibt es einen Parkplatz?",
+     "esperado": "K03",
+     "ok": true,
+     "respuesta": "Ja, es gibt einen Parkplatz auf dem Grundstück, nach Verfügbarkeit; fragen Sie bei der Buchung nach dem Tarif."
+    },
+    {
+     "q": "Gibt es ein Babybett?",
+     "esperado": "K04",
+     "ok": true,
+     "respuesta": "Ja, das Babybett ist kostenlos, nach Verfügbarkeit."
+    },
+    {
+     "q": "Haben Sie Zustellbetten?",
+     "esperado": "K05",
+     "ok": true,
+     "respuesta": "Die Apartments haben Schlafsofas für Kinder; Zustellbetten auf Anfrage (Tarif und Verfügbarkeit)."
+    },
+    {
+     "q": "Wann ist der Check-in?",
+     "esperado": "K06",
+     "ok": true,
+     "respuesta": "Check-in um 14:00 und Check-out um 12:00. Früher Check-in und später Check-out nach Verfügbarkeit (später Check-out gegen Aufpreis auf Anfra"
+    },
+    {
+     "q": "Wo liegt die Villa?",
+     "esperado": "K07",
+     "ok": true,
+     "respuesta": "Ronda Don Juan II, 3, 40003 Segovia: an der alten Stadtmauer, wenige Meter vom Alcázar und der Kathedrale, neben dem Museum Casa del Sol."
+    },
+    {
+     "q": "Wie kann ich buchen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können online über die Schaltfläche Buchen (deren Buchungssystem) buchen oder an info@villadonjuanii.com schreiben. Dieser Assistent kan"
+    },
+    {
+     "q": "Können Sie mir die Verfügbarkeit für morgen bestätigen?",
+     "esperado": "K08",
+     "ok": true,
+     "respuesta": "Sie können online über die Schaltfläche Buchen (deren Buchungssystem) buchen oder an info@villadonjuanii.com schreiben. Dieser Assistent kan"
+    },
+    {
+     "q": "Gibt es WLAN?",
+     "esperado": "K09",
+     "ok": true,
+     "respuesta": "Ja, kostenloses WLAN in der ganzen Villa."
+    },
+    {
+     "q": "Gibt es einen Garten?",
+     "esperado": "K10",
+     "ok": true,
+     "respuesta": "Ja, die Villa hat einen privaten Garten und Patio mit Blick auf den Garten und den Alcázar von Segovia."
+    },
+    {
+     "q": "Wie ist Ihre Telefonnummer?",
+     "esperado": "K11",
+     "ok": true,
+     "respuesta": "Telefon: +34 679 00 89 43. E-Mail: info@villadonjuanii.com. Per WhatsApp schreiben →"
+    },
+    {
+     "q": "Ist es nahe am Aquädukt?",
+     "esperado": "K12",
+     "ok": true,
+     "respuesta": "Ja: Das Aquädukt ist neun Minuten entfernt, Alcázar und Kathedrale nur wenige Meter, in einer Umgebung mit Welterbe-Status."
+    },
+    {
+     "q": "Was kostet eine Nacht?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 679 00 89 43 · info@villadonjuanii.com."
+    },
+    {
+     "q": "Sind Haustiere erlaubt?",
+     "esperado": "DESCONOCIDA",
+     "ok": true,
+     "respuesta": "Diese Information liegt mir nicht vor. Schreiben oder rufen Sie uns an: +34 679 00 89 43 · info@villadonjuanii.com."
+    }
+   ],
+   "chips": [
+    "Welche Apartments gibt es?",
+    "Gibt es einen Parkplatz?",
+    "Wann ist der Check-in?",
+    "Wie kann ich buchen?"
+   ]
+  }
+ },
+ "fail": [
+  "fr: chat \"Avez-vous des lits d’appoint ?\" esperado K05 -> Je ne dispose pas de cette information. Contactez-nous : +34 679 00 89 43 · info"
+ ],
+ "ok": false
+}
